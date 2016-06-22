@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Snappy</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_camera2">Camera2Activity</string>
+
+    <string name="picture">Picture</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+
+     <string name="intro_message">
+        <![CDATA[
+
+
+            This sample demonstrates the basic use of Camera2 API. Check the source code to see how
+            you can display camera preview and take pictures.
+
+
+        ]]>
+    </string>
+</resources>
